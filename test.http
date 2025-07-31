@@ -1,0 +1,9 @@
+
+//get http://localhost:4004/odata/v4/product/printhelloworld(input='Hello').
+
+
+//get http://localhost:4004/odata/v4/product/addition(num1=15 ,num2=10)
+
+//get http://localhost:4004/odata/v4/product/multiply(num1=15 ,num2=10)
+
+get http://localhost:4004/odata/v4/product/MyFucntion(category=2)
