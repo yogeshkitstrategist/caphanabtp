@@ -1,4 +1,4 @@
-id,name,stock,Price,category
-1,BMW,12,43224,1
-2,Audi,43,1321,2
-3,hundai,34,2354,4
+id,name,category,cost_Price,cost_stock,emmision,rating
+1,BMW,12,1234,34,20000,A
+2,Audi,43,5445,6,30000,B
+3,hundai,34,566,90,40000,C

@@ -17,6 +17,13 @@
     "@cap-js/cds-types": "^0.11.0"
   },
   "scripts": {
-    "start": "cds-serve"
-  }
+    "start": "cds-serve",
+    "watch-productshop": "cds watch --open productshop/webapp/index.html?sap-ui-xx-viewCache=false",
+    "watch-productshopnew": "cds watch --open productshopnew/webapp/index.html?sap-ui-xx-viewCache=false"
+  },
+  "sapux": [
+    "app/productshop",
+    "app/productshopnew",
+    "app/productshop"
+  ]
 }
