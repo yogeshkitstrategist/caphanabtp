@@ -1,11 +1,12 @@
 # Getting Started
 
 # Steps to reproduce
-1. CLone the repo from githup inside BAS
-2. make sure your terminal pointing to your project .if now ,go to your project you have created usinf cd<project name>.
-3. Type **cds watch** inside terminals
-4. run the browser or fgp to your file test.http and do the testing 
- 
+1. CLone the repo from githup inside BAS either by **UI** or type git clone **https://github.com/yogeshkitstrategist/caphanabtp.git** in terminal
+2. Check to branch **damain-model**  either by UI or type **git check out domain-model** in terminal 
+3. make sure your terminal pointing to your project .if now ,go to your project you have created usinf cd<project name>.
+4. Type **cds watch** inside terminals
+5. run the browser or fgp to your file test.http and do the testing 
+
 
 
 
