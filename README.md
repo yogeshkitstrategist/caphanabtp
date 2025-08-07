@@ -1,5 +1,14 @@
 # Getting Started
 
+# Steps to reproduce
+1. CLone the repo from githup inside BAS
+2. make sure your terminal pointing to your project .if now ,go to your project you have created usinf cd<project name>.
+3. Type **cds watch** inside terminals
+4. run the browser or fgp to your file test.http and do the testing 
+ 
+
+
+
 Welcome to your new project.
 
 It contains these folders and files, following our recommended project layout:
